@@ -87,3 +87,11 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+fonts:
+  - family: Montserrat Regular
+    fonts:
+      - asset: assets/fonts/mo_re.ttf
+  - family: Montserrat Medium
+    fonts:
+      - asset: assets/fonts/mo_me.ttf
